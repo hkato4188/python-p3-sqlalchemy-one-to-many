@@ -1,3 +1,4 @@
+SQLALCHEMY_SILENCE_UBER_WARNING=1
 from logging.config import fileConfig
 
 from sqlalchemy import engine_from_config
